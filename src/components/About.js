@@ -19,10 +19,10 @@ const About = () => {
               As a fresher, I'm dedicated to creating engaging web experiences.
             </p>
             <p className={isExpanded ? '' : 'hidden-text'}>
-              With a strong foundation in JavaScript, I love leveraging React.js to build dynamic and intuitive user interfaces. My goal is to write clean and efficient code that adheres to industry standards.
+              With a strong foundation in JavaScript, I love leveraging React.js to build dynamic and intuitive user interfaces.
             </p>
             <p className={isExpanded ? '' : 'hidden-text'}>
-              I'm constantly expanding my knowledge and staying up-to-date with the latest trends in front-end development. I'm driven by the opportunity to contribute to meaningful projects and collaborate with like-minded professionals.
+              I'm constantly expanding my knowledge and staying up-to-date with the latest trends in front-end development..
             </p>
             <p>
             Thank you for visiting my portfolio!
