@@ -26,7 +26,7 @@ function Projects() {
     },
     {
       title: "Project 4",
-      desc:"FilUploader ",
+      desc:"FileUploader using React.js ",
       img: "/projects/4.png",
       gLink: "https://github.com/Uma2708/Filexchanger",
       lLink: "https://gregarious-cucurucho-1c661f.netlify.app/",
