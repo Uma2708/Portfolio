@@ -139,21 +139,6 @@ header .mobile-links {
 }
 /* =========== Banner */
 
-.services-experience {
-  padding: 100px 0px;
-  position: relative;
-}
-.services-experience::before {
-  content: "";
-  position: absolute;
-  left: 0;
-  height: 100%;
-  top: 0;
-  bottom: 0;
-  background: var(--dark-light);
-  width: 50%;
-  z-index: -1;
-}
 
 .services,
 .skills,
@@ -497,7 +482,6 @@ button[type='submit']:hover {
   flex: 1;
   margin-top: 0;
   margin-left: 100px;
- 
 }
 
 .about-text {
@@ -539,38 +523,22 @@ button[type='submit']:hover {
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
 }
 
-/* Media Query for smaller screens */
 @media (max-width: 768px) {
   .about-section {
     flex-direction: column;
     text-align: center;
   }
 
-  .about-content,
-  .about-image {
-    margin: 0;
-  }
-}
-
-
-/* Responsive Styles */
-@media (max-width: 768px) {
-  .about-me {
-    margin: 20px;
-  }
-
-  .about-me-content {
+  .about-content {
     padding: 30px;
+    width: 100%;
   }
 
-  .about-me-heading {
-    font-size: 24px;
-  }
-
-  .profile-image {
-    justify-content: flex-start;
+  .about-image {
+    margin: 20px 0;
   }
 }
+
 
 
 /* ============= Media Queries */
