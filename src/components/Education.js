@@ -6,7 +6,7 @@ function Education() {
       icon: "fas fa-graduation-cap",
       title: " Graduation-B.Tech (CSE)",
       desc: "BPSMV, Khanpur Kalan Sonipat",
-      CGPA: "74.1%",
+      CGPA: "74.6%",
       active: false,
     },
     {
