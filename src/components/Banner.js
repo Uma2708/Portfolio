@@ -20,7 +20,7 @@ function Banner() {
             
             <a
   className="btn"
-  href="https://drive.google.com/uc?export=download&id=1ElThAvXLf-6SWYES4wwdXRKMPquGCYU5"
+  href="https://drive.google.com/file/d/1EjbmtxDclGmFQichnkkN9s8Ewt1PYjPS/view?usp=drivesdk"
   download="YourCV.pdf"
 >
   Download My CV
